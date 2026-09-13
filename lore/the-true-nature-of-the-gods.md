@@ -1,8 +1,8 @@
 ---
-
 title: The True Nature of the Gods
 description: No description.
 ---
+
 Related: [5005th C.A. 41](/wastelife/lore/cyfun-annuals/5005th-c.a.-41)
 
 The God of Knowledge has come to me to help distribute this truth. The gods do not care for worship, and they believe churches to be against their domains. This pamphlet is to help get the truth out there. I will be touring the country with Esten who are unprovable of the good gods. There will also be Esten touring independently. 

@@ -12,6 +12,6 @@ Ordered rules documents:
 [WLCW Combat](/wastelife/tabletop/wastelife-commonweal/wlcw-combat)
 [WLCW Dilemma](/wastelife/tabletop/wastelife-commonweal/wlcw-dilemma)
 [WLCW Discourse](/wastelife/tabletop/wastelife-commonweal/wlcw-discourse)
-[WLCW Advancements](/wastelife/tabletop/wastelife-commonweal/wlcw-advancements)
+[WLCW Advancements](wastelife/tabletop/wastelife-commonweal/wlcw-advancement.md)
 
 Wastelife Commonweal is my proprietary role-playing system. It prioritises the themes and systems of Wastelife and is hopefully somewhat playable. 

@@ -27,20 +27,20 @@ WTTTRPG has 7 classes: Velews, Fighter, Jack, Mage, Paladin, Caedyll, and Wizard
 So what main skills would the 6 classes have?
 
 **Velews:** Endurance*, Memory*, Leadership, Willpower^
-**Fighter:** Athletics*, Endurance^, Motorics*, Awareness^
+**Fighter:** Athletics*, Endurance^, Motorics*, Leadership^
 **Jack:** Stealth^, Logic^, Charm*, Empathy*
 **Mage:** Motorics*, Academics^, Logic*, Charm-
 **Caedyll:** Athletics^, Stealth*, Awareness*, Empathy*
-**Wizard:** Leadership-, Academics*, Memory*, Willpower*
+**Wizard:** Awareness-, Academics*, Memory*, Willpower*
 
 Tally:
 
 Athletics: Fighter, Caedyll
-Endurance: Velews, Wizard
+Endurance: Velews, fighter
 Stealth: Jack, Caedyll
 Motorics: Fighter, Mage
 Academics: Mage, Wizard
-Awareness: Fighter, Caedyll
+Awareness: wizard, Caedyll
 Logic: Jack, Mage
 Memory: Velews, Wizard
 Charm: Jack, Charm
@@ -69,15 +69,15 @@ Wizard: They learn enchantments by memorising certain planar alignments and agai
 ### Velews
 I'm not entirely sure how to work with the Velews' tree stuff since it's a very incredibly specific set of skills. What I'll probably do is create a number of advancement trees based on the different Velews sub-types that now exist in lore. 
 
-To expand on Velews lore, they as druids are simply non-Ysgews that learn to tap into the power of the trees, specifically to use their torfol energy for their own magic. In modern lore, Ysgews have become very much their own thing: a _luminary_. It only makes sense, then, that Velews are merely mortals who try to tap into the same power sources that make the luminaries so powerful. Abilities for Velews that make them be the ones that tap into trees can be adapted to each of the luminary power sources (lps):
+To expand on Velews lore, they as druids are simply non-Ysgews that learn to tap into the power of the trees, specifically to use their torfol energy for their own magic. In modern lore, Ysgews have become one of a few things: a _luminary_. It only makes sense, then, that Velews are merely mortals who try to tap into the same power sources that make the Ysgews so powerful. A general name for Velews is Velych. Abilities for velych that make them be the ones that tap into trees can be adapted to each of the luminary power sources (lps):
 
-- river (Bracai)
-- forest (Ysgews)
-- desert (Arcan Dida)
-- ocean (Allyiscereen)
-- magma/tectonic (Fridnyrm)
+- river, for Velcai imitating Bracai
+- forest, for Velews imitating Ysgews
+- desert, Veldonio imitating Amdonio
+- ocean, Velscer imitating Allyiscereen
+- magma/tectonic, Velnyrm imitating Fridnyrm
 
-Anyway, here's the skill disection.
+Anyway, here's the skill disection for Velews. 
 
 - Root Trick: can be part of each lps ability tree.
 - Wild Shape: its own advancement/enchantment that might be locked behind much later skill levels given its lore difficulty, and probably lps dependent.

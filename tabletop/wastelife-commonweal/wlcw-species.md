@@ -11,7 +11,7 @@ You're not allowed to pick one for the bonuses. I will be very annoyed if you tr
 
 If I want to balance I can always give some unique damage resistances to the ones who don't have much going for them.
 
-Resistant to a damage type probably just does 1 less damage.
+Resistant to a damage type probably just does 1 less damage, and weakness 1 extra. 
 ## Muz
 
 **Lemuz**
@@ -173,7 +173,7 @@ Most Ran subspecies not yet defined in lore
 
 ## Pri
 
-Ran subspecies not yet defined in lore
+Pri subspecies not yet defined in lore
 
 ## Deg
 

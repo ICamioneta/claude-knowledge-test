@@ -1,20 +1,9 @@
 ---
-
 title: WLCW Combat
 description: No description.
 ---
 
 Combat in Wastelife Commonweal is physical, visceral, and tactical. Its about blades, fists, and survival.
-
-## Board Combat
-
-This game can be played without a board, but payers and the GM will have to track distances mentally and state who is engaging who.
-
-If you're using a grid or a hex map, from a tile edge to the opposite tile edge is 1.5m.
-Larger creatures may occupy multiple tiles. Several regular or smaller creatures can occupy the same tile, but during combat they need the full space of the tile to move. 
-Tile adjacency represents melee range. If a creature's weapon range is greater than 1.5 metres, they can attack two tiles in front of them.
-
-For longer distances across the board, I recommend you calculate the hypotenuse for square tiling and count hexes between points for hex tiling.
 
 # Melee Combat
 
@@ -24,11 +13,23 @@ Combat's sway is vitality and hit points.
 
 Vitality measures how many serious wounds you can take. Deep cuts, broken bones, or other mortal injuries. Most people have 5 vitality points, and this maximum cannot be raised. As vitality drops, your body begins to fail you. Fighting, running, and even speaking becomes harder. 
 
-Alongside vitality are save points, which act as strokes of luck or bursts of sharp awareness that let you avoid deadly blows. By default, you have 5 save points. You can get more save points by earning advancements. You don't get a lot of extra save points, a ma
+Alongside vitality are save points, which act as strokes of luck or bursts of sharp awareness that let you avoid deadly blows. By default, you have 5 save points. You can get more save points by earning advancements. 
 
 Incoming damage always reduces save points first. Once you are out of save points, damage goes directly to vitality.
 
 When you reach 0 vitality, you die.  
+
+## Reach
+
+A combatant's reach is their maximum threat range, extended from their body by their weapon's length.
+
+At the start of combat, the GM declares how far apart combatants are, and if any are already within reach of others. 
+
+When a combatant is within another combatant's reach, a d20 can be used to express the distance between them in decimetres.
+
+In group combats, reach must be tracked on a person-by-person basis, with one dice between each opposing combattant. If group battles get too large, a more hollistic approach may be used by the DM, such as discarding reach or not allowing shorter weapons at all. 
+
+When fighting large monsters, such as anything larger than a polar bear, the minutia of reach matter less. In these circumstances reach is to be discarded as a mechanic for the monster combattant.
 
 ## Attacking
 
@@ -61,19 +62,29 @@ A - Athletics skill score
 BD - Bonus dice from weapon profile
 M - Motorics skill score
 
+adding an O as a prefix to these denotes opponent combatant's equivalents.
+
 Proficiency dice per proficiency skill:
 
 1 - d4
+
 2 - d6
+
 3 - d8
+
 4 - d10
+
 5 - d12
 
-1. Assess reach. You should remember what reach the combat is at, or have it noted down somewhere if there are lots of combats happening at once. 
-2. Decide to reposition. If you reposition, you roll PD+A and the other rolls their in-range BD. If you win, you move. If you lose badly, they get a free attack.
+If on your turn you chose to attack, you may pick one target within your reach and one attack your weapon can make.
+
+1. Assess reach. If your favoured attack is out of reach, you may decide to reposition. 
+2. If you reposition, you roll PD+A and the opponent you're repositioning against rolls the BD of their in range attack.
+	1. If your roll's score is above your opponent's, you move the difference between those roles closer or further, depending on your goals. 
+	2. If your reposition roll is 3 values lower than the opponent's corresponding roll, they get a free attack against you.
 3. Attack roll. The attacker (you) rolls BD+PD+ M. The defender rolls BD (if in range)+PD+M. If the attacker is greater or equal, they hit.
 4. Roll Damage. If hit, roll d2 for light slashing/bludgeoning, d3+1 for heavy slashing/bludgeoning, and d3+3 for piercing.
-5. Armour Save. Roll to meet or beat your armour score. If met, half damage. You will always take 1 save point if available, even if you beat the score.
+5. Armour Save. Roll to meet or beat your armour score. If met, half damage. You will always take 1 save point if available, even if you beat the score. Heavy attacks subtract 1.
 
 ## Shields
 
@@ -120,7 +131,7 @@ Attacks are shown as "Attack range bonus die" and multiple attacks on one weapon
 |                       |                                                                   |        |                   |
 | Warhammer             | Heavy Bludgeoning 3-5 d8, Piercing 5 d6                           | 2kg    | Heavy             |
 | Flange Mace           | Heavy Bludgeoning 1-4 d6                                          | 1.5kg  |                   |
-| Battleaxe             | Heavy Slashing 2-4. d8, Piercing 7-5 d2                           | 1.5kg  |                   |
+| Battleaxe             | Heavy Slashing 2-4. d8, Piercing 5-7 d2                           | 1.5kg  |                   |
 | Lance                 | Piercing 8-14 d6                                                  | 2.5kg  | Heavy             |
 
 ### Additional Properties
@@ -197,32 +208,47 @@ Armours provide armour save chances to succeeded attacks. The exact value of thi
 
 The armour save is a d6 roll. The table defines the value needed to pass the partial save. If you roll this value, you only partially save. If you roll above, you fully save. On a partial save, you take half of the damage rounded down. You will always lose at least 1 save point, even on a full save.
 
-You need at least athletics 1 to wear thick gambeson, chain, or brigandine. You need athletics 2 to wear scale and plate. Even with the required athletics skills, you will tire faster in heavier armours. 
+You need at least athletics 1 to wear thick gambeson, chain, or brigantine. You need athletics 2 to wear scale and plate. Even with the required athletics skills, you will tire faster in heavier armours. 
 
-The armour values are also presented as if you are wearing a full set of the said armour. If you are only wearing a partial set, such as armour that only covers vitals, then add 2 (to a maximum of 6) to the value required to pass the partial save. 
+The armour values are also presented as if you are wearing a full set of the said armour. If you are only wearing a partial set, such as armour that only covers vitals, then add 2 (to a maximum of 6) to the value required to pass the partial save. Partial sets also reduce the athletics requirement by 1
 
 Partial armours are much more practical than full sets. Many full sets of armour are impractical to wear as you adventure, as they will get very hot in most climates or will wear you down fast. Partial armour balances practicality with protection.
 
-A dash in the table means the armour does nothing against that type of attack.
-LS = Light Slashing, LB = Light Bludgeoning, HS = Heavy Slashing, HB = Heavy Bludgeoning, P = Piercing.
+A dash in the table means the armour does nothing against that type of attack. Heavy attacks subtract 1 from the armour save roll.
 
-| **Armour**       | **LS** | LB  | HS  | HB  | P   |
-| ---------------- | ------ | --- | --- | --- | --- |
-| Leather          | 5      | 5   | 6   | 6   | -   |
-| Hardened Leather | 4      | 4   | 5   | 5   | 5   |
-| Gambeson         | 4      | 3   | 6   | 5   | -   |
-| Thick Gambeson   | 3      | 1   | 4   | 2   | 6   |
-| Chain            | 3      | 4   | 3   | 4   | 4   |
-| Brigandine       | 2      | 4   | 2   | 4   | 2   |
-| Scale            | 1      | 3   | 2   | 3   | 2   |
-| Plate            | 1      | 2   | 2   | 2   | 1   |
+| **Armour**       | Slashing | Bludgeoning | Piercing | Athletics |
+| ---------------- | -------- | ----------- | -------- | --------- |
+| Leather          | 5        | 5           | -        | -         |
+| Hardened Leather | 4        | 4           | 5        | -         |
+| Gambeson         | 4        | 3           | -        | -         |
+| Thick Gambeson   | 3        | 1           | 6        | 1         |
+| Chain            | 3        | 4           | 4        | 1         |
+| Brigantine       | 2        | 4           | 2        | 1         |
+| Scale            | 1        | 3           | 2        | 2         |
+| Plate            | 1        | 2           | 1        | 2         |
 
 Atypical damage bypasses armour saves unless stated otherwise. Armour may still prevent delivery of atypical damage, at the GM's adjudication. 
 
+
+# Board Combat
+
+This arena is designed without a board in mind, but players can still use one.
+
+If you're using a grid or a hex map, from a tile edge to the opposite tile edge is 1.5m.
+Larger creatures may occupy multiple tiles. Several regular or smaller creatures can occupy the same tile, but during combat they need the full space of the tile to move. 
+
+If two combatants become adjacent on tiles, put a d20 reach die between them set at 15 decimetres. 
+
+For longer distances across the board, I recommend you calculate the hypotenuse for square tiling and count hexes between points for hex tiling.
+
+you may also use a grid smaller than the space a single person takes up. In this case, the GM needs to decide how many dm each tile represents. These are purely for representation, the distance die always represent the actual useful number. 
+
 # Combat Scenarios
+
 These scenarios serve as examples of how the combat system works. 
 
 ## 1. Spear vs Dagger
+
 A militia recruit with a spear faces a bandit armed with a dagger. Both have motorics 2. The recruit has proficiency tier 1 with their spear, the bandit has proficiency tier 2 with their dagger. In this scenario, these weapon proficiencies provide no added benefits. The recruit is wielding the spear two-handed, so they get the +2 bonus dice, meaning their _piercing_ attack profile is d8 instead of d6.
 
 **Turn 1: Spear thrusts at range**

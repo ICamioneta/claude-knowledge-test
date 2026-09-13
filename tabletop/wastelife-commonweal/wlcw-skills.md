@@ -12,8 +12,20 @@ There are 12 skill trees, which each have 5 skills in progression. There are thr
 There are three attributes: body, mind, and spirit. Attributes have a score that starts at 0 and increases whenever you gain a skill. These scores indicate a general development in the field, and provide some vague benefit because of that:
 
 - **Body** score increases your stamina. You can use your body for longer without getting as tired
+	- Athletics
+	- Motorics
+	- Stealth
+	- Endurance 
 - **Mind** score increases your focus. You can pay attention for longer periods of time, and can keep focus on more complex things.
+	- Academics
+	- Awareness
+	- Logic
+	- Memory
 - **Spirit** score increases social resolve. You can talk for longer without loosing track, and can follow other's speech with less drag.
+	- Charm
+	- Leadership
+	- Willpower
+	- Empathy
 
 Gaining new skills follows a particular schema:
 
