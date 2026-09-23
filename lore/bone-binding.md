@@ -7,7 +7,7 @@ For those who have read about the forbidden resurrections, bone binding seems a 
 
 The potency of necromagery is in its scalability, how a necromage in his basement may go from having a few undead thralls to terrorising a city with a legion of conduits. The horror of necromagery is its upheaval, the walking lifeless corpses of your friends and family. 
 
-Bone binding is none of this. It is neither scalable nor does it involve the dead. It is not even a spell: it is an enchantment. Those who conflate it with necromagery betray an ignorance of both.
+Bone binding is none of this. It is neither scalable nor does it necessarily involve the dead. It is not even a spell: it is an enchantment. Those who conflate it with necromagery betray an ignorance of both.
 
 Bone binding has its origins in power-hungry wizards attempting to recreate the power of the necromage. Lacking any spellcasting skills, they utilised their wealth of knowledge of enchantments. The first successful bone-bind was done by some students in the early medieval era. It is true that they initially practised the enchantments on the skeleton corpses of people. Through new techniques, this is not at all necessary. 
 

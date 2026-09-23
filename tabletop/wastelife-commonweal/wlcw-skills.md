@@ -15,7 +15,7 @@ There are three attributes: body, mind, and spirit. Attributes have a score that
 	- Athletics
 	- Motorics
 	- Stealth
-	- Endurance 
+	- Endurance
 - **Mind** score increases your focus. You can pay attention for longer periods of time, and can keep focus on more complex things.
 	- Academics
 	- Awareness

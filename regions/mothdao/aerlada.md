@@ -3,7 +3,7 @@ title: Aerlada
 description: A vast river network with a collapsing coast
 ---
 
-Aerlada is a land with many large and noteworthy rivers. 
+Aerlada is a land in [Mothdao](wastelife/regions/mothdao) with many large and noteworthy rivers. 
 
 The land is littered with [Bracai](/wastelife/creatures/misc/bracai) who make its culture noteworthy. It is otherwise relatively sparsely populated. 
 

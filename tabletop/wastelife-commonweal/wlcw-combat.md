@@ -105,6 +105,7 @@ Attacks are shown as "Attack range bonus die" and multiple attacks on one weapon
 
 | Name                  | Attacks                                                           | Weight | Additional        |
 | --------------------- | ----------------------------------------------------------------- | ------ | ----------------- |
+|                       |                                                                   |        |                   |
 | Spear                 | Piercing 5-10 d6                                                  | 1.5kg  | Versatile         |
 | Hilted Dagger         | Piercing 0-2 d2, Light Slashing 0-2 d4                            | 0.5kg  |                   |
 | Cutting Dagger        | Light Slashing 0-2 d4, Heavy Slashing 0-2 d2                      | 0.5kg  |                   |

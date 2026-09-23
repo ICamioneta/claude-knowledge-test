@@ -18,6 +18,10 @@ When a dilemma begins, the GM describes what is clearly and immediately observab
 
 This establishes a shared starting point for the players and defines what is currently known versus unknown.
 
+## Banked Insight
+
+During rests, players can bank insight by preemptively researching the dilemma. Players must have recognised the dilemma they would face for the banked insight to apply.
+
 # Actions
 
 During a dilemma, players may take the following base actions:
@@ -30,7 +34,7 @@ During a dilemma, players may take the following base actions:
 
 Each action may increase Insight, Pressure, or both. The amount gained depends on how relevant and effective the action is within the context of the dilemma.
 
-Skills grant additional actions that allow characters to interact with the situation in more meaningful or specialized ways. These actions often provide more Insight or allow it to be gained with less risk. For example, lockpicking allows a character to interact with a lock in ways unavailable through brute force alone.
+Advancements grant additional actions that allow characters to interact with the situation in more meaningful or specialized ways. These actions often provide more insight or allow it to be gained with less risk. For example, lockpicking allows a character to interact with a lock in ways unavailable through brute force alone.
 
 ## Action rolls
 
@@ -64,6 +68,7 @@ Most dilemmas, however, are improvised. In these situations:
 - The GM controls how Pressure increases
 
 In improvised dilemmas, the d20 roll serves as a guide for the GM to judge the quality of the action and determine what information to reveal and how the situation evolves.
+
 
 # Resolution
 
