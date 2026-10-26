@@ -33,11 +33,18 @@ The aquatic floor is covered in kelp forests. Seasonal plankton booms upkeep a h
 
 It is known that most aquatic infrastructure was built by an [Allyiscereen](/wastelife/creatures/misc/allyiscereen). 
 
+# Islands
+
+![](/wastelife/region-maps/gazi-lale-darie/gazi-lale-darie-island-names.png)
+
+There's a lot of islands.
+
 # Fauna
 
 ## Character Animal: Dolphin
 
 Dolphins have been a social companion to the Domuz ever since their cultures involved being in the water lots. They are incredibly intelligent animals just barely not making it into the "species of person" category by means of not being able to participate actively in society. Many pet dolphins actually have the capability to speak a simplified Seaspeak, but aquatic Seaspeak is an odd language overall, the language as a whole includes synonyms for words in the aquatic dialect.
+
 
 # Name origin
 

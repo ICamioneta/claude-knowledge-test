@@ -3,7 +3,7 @@ title: Calews
 description: No description.
 ---
 
-This document not only covers Calews, but also incarnated Ews under the [[Codia#Silpt|Silpt]] model.
+This document not only covers Calews, but also incarnated Ews under the [[wastelife/factions/anula/codia#Silpt|Silpt]] model.
 
 In Silpt, [Ysgews](/wastelife/species-of-person/ews/ysgews) are different in that they have a blue glow to them. These Ysgews are known as Letarches. Letarches have the unexplained ability to revive dead [Codews](/wastelife/species-of-person/ews/codews) and create new [Ews](ews.md) species. This ability occurs shortly after a non-Ews creature dies near the Letarch. Theories speculate that Letarches are capable of "capturing" and using the [[Hidosis#Torfol]] of recently deceased individuals and placing them into the corpses of deceased Ews and into special nearby tree species to create Calews and Lethews.
 

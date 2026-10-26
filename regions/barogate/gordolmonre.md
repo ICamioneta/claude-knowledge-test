@@ -23,7 +23,7 @@ infobox:
 
 Gordolmonre is a massive mountain range in western Barogate. it stretches from [Gazi Lale Darie](/wastelife/regions/barogate/gazi-lale-darie) to the end of [Terlaye](/wastelife/regions/barogate/terlaye) in [Naternegorna](/wastelife/settlements/terlaye/naternegorna). Its existence essentially creates the rainforest of [Kyeron](/wastelife/regions/barogate/kyeron) and the desert of Barogate's wastes. 
 
-Most of Gordolmonre's population is in valleys controlled by [Shaikeron](/wastelife/factions/barogate-lifeland/shaikeron). Around 210,000 people live in the Basinal highland, 40,000 in Hegrel. 2,100,000 inhabitants are semi-nomadic [Garas](/wastelife/cultures/garas/) [Reyens](/wastelife/species-of-person/ens/reyens). 
+Most of Gordolmonre's population is in valleys controlled by [Shaikeron](wastelife/factions/barogate-lifeland/shaikeron.md). Around 210,000 people live in the Basinal highland, 40,000 in Hegrel. 2,100,000 inhabitants are semi-nomadic [Garas](/wastelife/cultures/garas/) [Reyens](/wastelife/species-of-person/ens/reyens). 
 
 # Geography
 

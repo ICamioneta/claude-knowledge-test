@@ -36,7 +36,7 @@ Major lakes are often hubs of trade and culture, owing to the Bracai that live i
 
 ### Rullan
 
-Kerrllan is a remote major lake in Terlaye's far north. It has a few surrounding settlements that adhere to more traditional Terlayan cultures. It's also frequently visited by the [Natin Aredvic](/wastelife/factions/barogate-wastes/aredvic) for trade.
+Kerrllan is a remote major lake in Terlaye's far north. It has a few surrounding settlements that adhere to more traditional Terlayan cultures. It's also frequently visited by the [Natin Aredvic](wastelife/factions/barogate-wastes/aredvic.md) for trade.
 
 Fellan is the largest lake on Barogate. The city of [Serven](/wastelife/cities/terlaye/serven) is on the lake, as well as major market towns Derbhem, Mosnaen, and Notami (which is in Ralean, on the other side of the river). 
 

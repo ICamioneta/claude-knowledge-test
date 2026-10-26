@@ -7,7 +7,7 @@ description: No description.
 
 The Ysgews are incredibly intelligent, capable of knowing tens of thousands of people and processing vast amounts of information in depth and well.
 
-The Ysgews have two main states: rooted and uprooted. When rooted, they are able to use the torfol of plant life in the forest. They use this potential to perform powerful [Hidosis](/wastelife/hidol/hidosis). When in this state, if placed in a sufficiently large forest such as [Raikeor](/wastelife/factions/barogate-lifeland/raikeor) or [Eswin](/wastelife/factions/barogate-lifeland/eswin), they are amongst the most powerful hidists in the mortal realm. When rooted in a massive forest such as [Codia](/wastelife/factions/anula/codia), they are the most powerful hidists in reality. 
+The Ysgews have two main states: rooted and uprooted. When rooted, they are able to use the torfol of plant life in the forest. They use this potential to perform powerful [Hidosis](/wastelife/hidol/hidosis). When in this state, if placed in a sufficiently large forest such as [Raikeor](wastelife/factions/barogate-lifeland/raikeor.md) or [Eswin](wastelife/factions/barogate-lifeland/eswin.md), they are amongst the most powerful hidists in the mortal realm. When rooted in a massive forest such as [Codia](wastelife/factions/anula/codia.md), they are the most powerful hidists in reality. 
 
 When uprooted, they loose their ability to use the torfol of the forest but still have their own incredibly powerful torfol, which they are capable of bolstering before uprooting. They also gain incredible speed and strength, using their root-like apendages to scuttle rapidly across difficult terrain. In combat they use their root-like appendages as whips, used to bludgeon, slash, and rip their way through any opponent. Ysgews will spend the vast majority of their lives rooted, only uprooting when moving is absolutely necessary or if they are required to join an offense. 
 
@@ -15,7 +15,7 @@ They often form the centres of Ews societies, having [Codews](/wastelife/species
 
 An Ysgews is rarely without [Caddews](/wastelife/species-of-person/ews/caddews) nearby. the Caddews are the sworn protectors of the Ysgews, and are grown solely for this purpose in life. Within villages, they act as a sort of royal guard.
 
-An Ysgews in [[Codia#Silpt|Silpt]] is a Letarch. They are capable of incarnating and reviving Ews using some spirit of a fallen person.
+An Ysgews in [[wastelife/factions/anula/codia#Silpt|Silpt]] is a Letarch. They are capable of incarnating and reviving Ews using some spirit of a fallen person.
 
 ## Life Cycle
 Ysgews are born like any other Ews, from a seed-like egg implanted in the ground. This seed-like egg comes from other Ysgews. This is often an asexual reproduction, however Ysgews can transfer gametes between eggs. These eggs need to be planted by old fauna with developed Torfol. Ysgews will grow completely rooted until near-maturity, where the last few stages of maturity necessitate moving while uprooted. 

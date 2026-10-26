@@ -45,6 +45,12 @@ Crécyvdaith is inhabited by a Fridnyrm called Vrubur. The volcano lords are mos
 
 Vrubur is an explorer of the silver ruins, and often gatekeeps them. He has challenged the Shinkuçin a few times and forced them to re-route the Unvahn a few times.
 
+# Geography
+
+Other than the silver ruins, Hebas Deryd is a vast and empty desert. On the edges, however, sits some geography. 
+
+The Kassakorac mountains are to the east, with [Asenhal](/wastelife/regions/mothdao/asenhal) behind them. The Nila river starts in Hebas Deryd, cut deep into the sandstone and carrying blown sediment downstream into [Haerul](/wastelife/regions/mothdao/haerul). To the south, the desert falls to Shiezrac mountains and [Pzthrisdon](wastelife/regions/mothdao/pthrisdon.md). In the south-west, there are a number of mountain ranges including Icsuxjoq, Sejaujoq, Yagojaq, and Crécyvdaithjoq. To the west, Iggijoq and [Ibtchilit](/wastelife/regions/mothdao/ibtchilit). To the north, the desert slopes down to the coasts of [Varan Del](/wastelife/regions/mothdao/varan-del). 
+
 # Name Origin
 
 Hebas Deryd is an ouranxised version of  “Hebas Dirod”, which translates to “Empty sand”, which accurately describes the region. 

@@ -1,9 +1,8 @@
 ---
-
 title: Fridnyrm
 description: No description.
 ---
-A Fridnyrm (formerly Volcano Lord) is an unclear species consisting of a handful of individuals. They are a luminary type species of person. There are 14 on Barogate in [Ichmenre](/wastelife/regions/barogate-wastes/ichmenre), who participate in [The Kingdom of Ichmenre](/wastelife/factions/barogate-wastes/the-kingdom-of-ichmenre), and there are likely no more than 100 globally, littered around the other continents. 
+A Fridnyrm (formerly Volcano Lord) is an unclear species consisting of a handful of individuals. They are a luminary type species of person. There are 14 on Barogate in [Ichmenre](/wastelife/regions/barogate/ichmenre), who participate in [The Kingdom of Ichmenre](wastelife/factions/barogate-wastes/the-kingdom-of-ichmenre.md), and there are likely no more than 100 globally, littered around the other continents. 
 
 Regardless, fridnyrm share certain physical characteristics. They are humanoid beings whose bodies often consist of a combination of stone, fire, lava, magma, unexplained heat, and ash particles. Every fridnyrm is tied to a single volcano or a set of volcanoes. 
 

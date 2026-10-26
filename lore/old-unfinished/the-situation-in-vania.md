@@ -3,7 +3,7 @@
 title: The Situation in Vania
 description: No description.
 ---
-Related: [Vania](vania.md), [Republic of Vania](/wastelife/factions/barogate-lifeland/republic-of-vania)
+Related: [Vania](vania.md), [Republic of Vania](wastelife/factions/barogate-lifeland/republic-of-vania.md)
 
 A 3488 report on the Political and Economic Situation in Vania, a Precaution for Eresonian Councilism.
 # Chapter 1: A Political History

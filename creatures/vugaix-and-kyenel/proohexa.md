@@ -1,0 +1,12 @@
+---
+
+title: Proohexa
+description: No description.
+---
+The Proohexa is a strange creature whose body is a tube-like shape with many legs protruding from its body. These legs are similar to those of a horse. They propagate radially from the body at seemingly random intervals. The proohexa’s skin is made of the same fungi texture as that of the Nidxa. The creature is an omnivore. At the end of their tube-like body they have an almost beak-like set of teeth designed for tearing fibres of all kinds.
+
+Using its myriad of legs, the Proohexa speeds through the dense forest environment, each leg clamping on a trunk in a blink before springing to the next, the creature never truly touching the ground. Each leg moves independently, as each leg contains a sensory organ and a set of neurons that the leg uses to identify and manoeuvre the trunks of surrounding trees. The body is surprisingly acrobatic, its tube-like nature able to weave its way in and out of otherwise untraversable environments.
+
+The Proohexa’s growth is separated between childhood, adulthood, and elderhood. Each stage in its life begins with a significant growth spurt. Mature children are about 1 metre long, mature adults stretching to about 2.3m, and mature elders grow to be 4 metres long. The Proohexa is an incredibly fast creature, reaching its highest speed during mature adulthood and when in dense forestry, reaching speeds of 100km/h. Mature children can reach speeds of about 75km/h, and mature elders are slowed down to about 50km/h. Although almost all Proohexa die during elderhood, it is possible for them to experience another growth spurt, although most proohexa don’t survive long in a new oversized body.
+
+Although the main habitat of the Proohexa is [Vugaix](/wastelife/regions/barogate-wastes/vugaix), they sometimes enter [Dithas](/wastelife/regions/barogate-wastes/dithas) and [Duela](/wastelife/regions/barogate-wastes/duela). Given their much greater size, Elders more commonly migrate to Dithas thanks to its less dense forestry. Although rare, Proohexa have crossed the Calaerula although they do not survive well in the mountainous northern Ralean. They are more successful when travelling west into the Heabe, although the species struggles to cross the Heabe’s rivers. 

@@ -1,0 +1,27 @@
+---
+
+title: Kithral Kaer stories
+description: No description.
+---
+In history, the Kithral Kaer are told to have migrated south until they found a lake, and then settled against this water because of their thirstyness. The Kaer were conquerors throughout much of history. before the tribunal, they were at war and conquering one of their neighbours, Daenlle. After the tribunal was set up, this conquering was forced to come to an end and although Daenlle was about to expire, it was resurfaced and actually given the land with Kithral Daen majority. After that, the Adaleans wern't done with taking away its land because they had previously settled a bunch of Ouranxan immigrants on their southmost peninsula, which then declared independence.
+Regardless of these more modern cultures, the Kaer were conquerors, but they were also cultivators. Much of their land was well developed. From this context, there are a few different myth directions.
+
+Those that are conqueror's propoganda. Stories of heroic soldiers conquering dangerous beasts that are either just wildlife-based monsters or characateurs of their enemies.
+
+Those that the farmers and developers made. Odd stories about creatures that ruin crops, or halter development by their mere existance. Mostly bugs.
+
+Myths of great offshore invasions. These often invoked the generational trauma of being lead from their homeland, with the charging hoxous being characterised as a stampede of angry bulls. At the end of these myths, heroes fight them off through martial might, in a "look at how strong we've become" type way.
+
+The first two of these myth types spawned the most useable monsters for Daklyn to add to Wastelife, while the third inspired several invasions from the other continent
+
+Expanding on the second topic, there's a myriad of creatures developed from the idea of bad harvests. The two creatures that often ate plants were a moth species and the slug.
+
+Gunaxeth is the name given to a monster in Kaer myths that is, more or less, a giant slug. This giant slug has the ability to split into many smaller slugs and devastate crops, eating them all. In the Kaer myths, this slug is highly sentient and is said to curse farmers who are lazy on their harvesting. For Daklyn, he swiped this concept almost as-is, except the giant slug part is mostly forgone for a bunch of tiny slugs who are part of a hive mind, and can come together to form some sort of mega-slug, but this mega-slug is made up of the tiny slugs.
+
+Vynguikifrydsonod is the name of a type of moth present in Kaer mythology. It's not giant, and is based on a real moth that has devastated harvests in the past. In the often told story, a farmer enjoys hunting birds with his bow and arrow. The farmer is clearly skilled, as he hunts all types of birds, from the small to the birds of prey. But he hunts too many of them, to the point where one of their prays, the moths named vynguikifrydsonod, have no real predator and multiply. The moths then go on to eat the farmers crops again and again, and he starves to death without any produce. It's obviously a cautionary tale on the spiral that eliminating a single species can have on the ecosystem. In Wastelife, Daklyn focused less on the moth and more on the bird part of the story. This bird he named the Vynguirusod, which is adapted from the moth name. It has an interesting defence mechanism. When its skin is pierced, loads of moth-like creatures will spew from the pierced place, and seek the attacker of the bird. These moth-like boids will attack the attacker until they perish, which is often quite soon after they leave the bird. The Vynguirusod itself is a bird with a wide wingspan, like an albatross or a heron.
+
+More interesting in the realms of mythology are personifications. For the crop failure personifications, we have many. From crop diseases, drought, flooding, and even a combination of drought followed by flooding.
+
+During times of crop blight, farmers would make up any story to give the blame to something. A common one of these was the Haerkidokin. This worm was often as thick as a forearm - remember it's a farmer's forearm too. They are a off-putting yellow and black in colour, and sport several tiny legs which they use to walk around. They have a thin slit of a mouth, which they use to munch on plants and give it the characteristic dead and yellow blight patch. Daklyn took this creature and put it directly into Wastelife, albeit slightly larger and dangerous to people.
+
+The next creature made up during times of drought was the Pobyrllersellfellin. The Pobyrllersellfellin, often shortened to Byrllefell, was often very wet and was told to suck up any water it came into contact with, causing drought. During these times, Kithral Kae peoples would often go hunting for toads wet enough to be deemed the Byrllefell, as it was said that killing the toad would release the water and bring back fertility to the land. Daklyn used this myth as an inspiration for Wastelife, brandishing the slightly different name of Pollersellin. This toad wanders the inlands of Ereso, hopping along often leaving dried creatures in its path. It can be quite aggressive, purposefully absorbign creature's waters into its own. When killed, the water it holds is released. It's impossible to tell how much water it holds, as well as how it holds that water, because often it causes a mini flood as the water quickly leaves the frog it can fill areas up to several metres cubed with water.

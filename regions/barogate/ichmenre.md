@@ -21,7 +21,7 @@ infobox:
         value: 3,532,000
 ---
 
-Ichmenre is a mountain range in the eastern Wastes. It consists of 14 prominent active volcanoes amongst a harsh mountain range with hundreds of less prominent active volcanic bodies. Each of these prominent volcanoes are 'controlled' by a [Fridnyrm](/wastelife/species-of-person/volcanic/fridnyrm). These 14 volcano *lords* control the lordship of [The Kingdom of Ichmenre](/wastelife/factions/barogate-wastes/the-kingdom-of-ichmenre). Ichmenre is in between [Duela](/wastelife/regions/barogate-wastes/duela), [Kyenel](/wastelife/regions/barogate-wastes/kyenel), and [Llyhai](/wastelife/regions/barogate-wastes/llyhai).
+Ichmenre is a mountain range in the eastern Wastes. It consists of 14 prominent active volcanoes amongst a harsh mountain range with hundreds of less prominent active volcanic bodies. Each of these prominent volcanoes are 'controlled' by a [Fridnyrm](/wastelife/species-of-person/volcanic/fridnyrm). These 14 volcano *lords* control the lordship of [The Kingdom of Ichmenre](wastelife/factions/barogate-wastes/the-kingdom-of-ichmenre.md). Ichmenre is in between [Duela](/wastelife/regions/barogate-wastes/duela), [Kyenel](/wastelife/regions/barogate-wastes/kyenel), and [Llyhai](/wastelife/regions/barogate-wastes/llyhai).
 
 Its demographic population is the [volcanic](/wastelife/species-of-person/volcanic) peoples. Due to their body heat, they cannot leave their communities for very long without special protection. They live luxurious lives of arts and culture, and trade exclusively with Sandcampers for normal civilisation's cultural produce. Semi-settled traders make up a small fraction of the population. 
 

@@ -102,7 +102,7 @@ The most demographically dominant by far is [Sapyat](/wastelife/cultures/llofil-
 
 The major cultures have a number of local variation. 
 
-The primary language of Ereso (called Eresonian, which is also the demonym of the region and the citizens of [Eresonia](/wastelife/factions/barogate-lifeland/eresonia)) is historically the language of the Sapyats spoken by the courts of historic region-spanning empires originating in the Great Plains. Each culture has its own mutually intelligible variant of the language, with Ursan and Kiyvan having large lexical differences.
+The primary language of Ereso (called Eresonian, which is also the demonym of the region and the citizens of [Eresonia](wastelife/factions/barogate-lifeland/eresonia.md)) is historically the language of the Sapyats spoken by the courts of historic region-spanning empires originating in the Great Plains. Each culture has its own mutually intelligible variant of the language, with Ursan and Kiyvan having large lexical differences.
 
 # Fauna
 
@@ -112,4 +112,5 @@ Ereso's character animal is the Panther. There are specific breeds cat, the Iava
 
 
 # Name origin
+
 Ereso is inspired by the lands of Kaerle and Nixiana on DeMoch. [Daklyn](/wastelife/daklyn) spent a good amount of his journey in these areas. The migratory Kithral Kaer originally landed in this area and named the place "first land" which untranslated is "Sheres Do". Daklyn shortened and ouranxised this into Ereso.

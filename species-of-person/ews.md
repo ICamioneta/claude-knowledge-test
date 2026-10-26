@@ -3,19 +3,19 @@
 title: Ews
 description: No description.
 ---
-The Ews are a set of tree-peope species most of which originate from the Great Forest of [Codia](/wastelife/factions/anula/codia). The Ews are also present in many other large forests across the world. On Barogate, they are present in [Ereso](ereso.md)'s northern forest under [Raikeor](/wastelife/factions/barogate-lifeland/raikeor), and in [Ralean](ralean.md)'s southern forest under [Eswin](/wastelife/factions/barogate-lifeland/eswin). They are also present in smaller forests in [Vezoen](/wastelife/regions/anula/vezoen) and [Thagryene](/wastelife/regions/anula/thagryene).
+The Ews are a set of tree-peope species most of which originate from the Great Forest of [Codia](wastelife/factions/anula/codia.md). The Ews are also present in many other large forests across the world. On Barogate, they are present in [Ereso](ereso.md)'s northern forest under [Raikeor](wastelife/factions/barogate-lifeland/raikeor.md), and in [Ralean](ralean.md)'s southern forest under [Eswin](wastelife/factions/barogate-lifeland/eswin.md). They are also present in smaller forests in [Vezoen](/wastelife/regions/anula/vezoen) and [Thagryene](/wastelife/regions/anula/thagryene).
 
 - [Ysgews](/wastelife/species-of-person/ews/ysgews), the elders and centres of Ews society
 - [Codews](/wastelife/species-of-person/ews/codews), the regular muz-sized and muz-shaped Ews
 - [Caddews](/wastelife/species-of-person/ews/caddews), the large warriors and sworn protectors and vanguard of the Ysgews.
-- [Calews](/wastelife/species-of-person/ews/calews), a revived Codews present in [[Codia#Silpt|Silpt]]
+- [Calews](/wastelife/species-of-person/ews/calews), a revived Codews present in [[wastelife/factions/anula/codia#Silpt|Silpt]]
 - [Fruchews](/wastelife/species-of-person/ews/fruchews), a non-person and highly aggressive type of Ews on Mothdao.
 
 Ews societies are usually founded around a subspecies called the [Ysgews](/wastelife/species-of-person/ews/ysgews). These Ews often form the centre for villages of other Ews, usually [Codews](/wastelife/species-of-person/ews/codews) and [Caddews](/wastelife/species-of-person/ews/caddews). There are some variants of Ews society, namely in Codia, that operate on different social hierarchies. The Silpt sub faction of Codia has [Calews](/wastelife/species-of-person/ews/calews) and a bunch more in addition to the typical Ews in a society, althogh the regular three species of Ews when part of Silpt have a blue tint and have their own thing going on. 
 
 For an overview of Silpt's specific system of reviving and incarnating Ews and the species or archetypes that come from them, look in the [Calews](/wastelife/species-of-person/ews/calews) document for a proper disection, as I'm not going to create six different new documents for each of the incarnated Ews types.
 
-[[Codia#Shurb|Shurb]] societies are very differently structured and often don't have Codews or Caddews. Instead, all the Ysgews of Shurb operate on a direct hivemind (compared to the regular message linkage that Ysgews have when rooted).
+[[wastelife/factions/anula/codia#Shurb|Shurb]] societies are very differently structured and often don't have Codews or Caddews. Instead, all the Ysgews of Shurb operate on a direct hivemind (compared to the regular message linkage that Ysgews have when rooted).
 
 # History
 

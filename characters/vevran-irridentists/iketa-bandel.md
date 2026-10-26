@@ -1,0 +1,10 @@
+---
+
+title: Iketa Bandel
+description: No description.
+---
+Iketa Bandel is a person of Reipo culture who supports the [Vevran Irridentists](/wastelife/characters/vevran-irridentists/index). They are a military soldier who, due to Eresonia's system of bottom-up command delegation, are in a position of command much lower than they are qualified for. 
+
+They are qualified to be the marshal of the Eresonian army, a position they worked hard for. They reached the rank of General Commander Candidate Senior, meaning they achieved seniority for the General Commander position and were eligible for the elections to become a marshal. However, following this, they were incapable of holding on to their General Commander position and lost that election to become a General. Following this, they then lost their next election and became a Colonel Commander, but were able to hold onto this position and not slip further down the chain. Because in the Eresonian military you retain candidate seniority for any rank, meaning that Iketa would be up for Marshal elections if they ever achieved the General Commander rank again, they become a Colonel Commander acting General Commander Candidate Senior, the longest titled rank in the Eresonian military, which means they are qualified as a General Commander Candidate Senior, but are currently acting as a Colonel Commander.
+
+Iketa believes they are owed the marshal role, a role there are only two other candidates for, one of which is the current acting marshal and the other a General Commander. Iketa believes they are more competent than either of these individuals, and resents the bottom-up democratic structure of the military. For this reason, they support a reestablishment of a more traditional army structure in Ereso, which is not something Vania did. Karsas, in search of skilled army officials, promises such an army structure in an independent Vevrania. In turn, Iketa promises to command and lead a potential Vevranian army.

@@ -10,3 +10,5 @@ the prosoma is one forward facing unit but the thorax is dropped down to be vert
 That gives them a strictly non humanoid form, but it means they can actually manoeuvre a pole all around their body with their arms. With this body plan, they can bring their thorax back and crouch, looking a lot more like a regular spider with spindly limbs.
 
 Since this is God designed, a muscular heart makes room for more digestive system in the thorax. The "muscles" in the legs and arms can keep a pneumatic style system. 
+
+- [Eximipri](/wastelife/species-of-person/pri/eximipri) in Ibtchilit

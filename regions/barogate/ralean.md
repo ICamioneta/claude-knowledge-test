@@ -29,7 +29,7 @@ infobox:
 
 ---
 
-Ralean is a large and populated region that's warm and recieves well amounts of rain. It's generally split into three regions: Senolado in the centre, Sefare Eysenre in the north, and Desheg in the south. It borders [Terlaye](/wastelife/regions/barogate/terlaye) in the west, [The Heabe](/wastelife/regions/barogate/the-heabe) in the north-west, [Vugaix](/wastelife/regions/barogate/vugaix) in the north, and [Sarel](sarel.md) in the east. Its southern coast belongs to Ayangshula, the strait between [Barogate](barogate.md) and [Anula](wastelife/regions/Anula.md). 
+Ralean is a large and populated region that's warm and recieves well amounts of rain. It's generally split into three regions: Senolado in the centre, Sefare Eysenre in the north, and Desheg in the south. It borders [Terlaye](/wastelife/regions/barogate/terlaye) in the west, [The Heabe](/wastelife/regions/barogate/the-heabe) in the north-west, [Vugaix](/wastelife/regions/barogate/vugaix) in the north, and [Sarel](sarel.md) in the east. Its southern coast belongs to Ayangshula, the strait between [Barogate](barogate.md) and [anula](wastelife/regions/anula.md). 
 
 # Geography and Climate
 
@@ -79,7 +79,7 @@ The northlake region is east of the Sefare Eysenre mountains, and describes the 
 
 ## Desheg
 
-The southern forest Desheg covers almost the entire south, with the Border Hills covering the remainder. It's relatively undeveloped, with few roads and towns. It is also the home of an Ews faction known as [Eswin](/wastelife/factions/barogate-lifeland/eswin)
+The southern forest Desheg covers almost the entire south, with the Border Hills covering the remainder. It's relatively undeveloped, with few roads and towns. It is also the home of an Ews faction known as [Eswin](wastelife/factions/barogate-lifeland/eswin.md)
 
 Border Hills includes all hills that border [Terlaye](terlaye.md) in Ralean. They are relatively small but historically have acted as a good defensive barrier.
 
@@ -96,4 +96,5 @@ In the modern world, Ralean is almost always called Ralean. There is another nam
 # Name origin
 
 The land of Ralean is based on Kithral Ya lands in DeMoch. Unlike the Kaemuz, Ximuz, Domuz, and Danmuz, the naming of the native Muz to this region (Lemuz) seems to be somewhat arbitrary when compared to its real-world inspired counterparts. 
+
 As for the name of the region, Daklyn morphed "Yarile" into "Ralean" somehow. 

@@ -59,4 +59,5 @@ Kyeron's western coasts are full of large sandy beaches, but one in particular i
 It's like a sloth but it's as big as a black bear. While usually territorial and aggressive, holy bears are kept by trained church personnel. 
 
 # Name origin
+
 Kyeron is based on the rainforest in western DeMoch inhabited by the Kithral Xi. Daklyn used the Xi expression "more trees than before" to name his region in Wastelife. This expression originates from an observation that migratory Xi made when comparing the tree density of the rainforest to their original homeland, Gazi. The untranslated expression is "hychshivae kin ron", which is often shortened to "shikiron" in common speech. The last part of this - 'kiron' - was adapted into the region's name, Kyeron. The Shi part at the beginning, although originally referring to trees, was used by Daklyn in naming the faction Shaikeron.

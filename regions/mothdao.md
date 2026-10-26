@@ -40,7 +40,7 @@ A rainforest inhabited by Pri. It is known to be an incredibly mysterious and da
 
 Racal Remporn is the southern habitable region of Mothdao. It's very varied
 
-### [Pzthrisdon](/wastelife/regions/mothdao/pzthrisdon)
+### [Pzthrisdon](wastelife/regions/mothdao/pthrisdon.md)
 
 A highly mountainous but otherwise survivable region primarily inhabited by Pri. It has a well developed military culture and is host to a few volcano lords and silver ruins.
 

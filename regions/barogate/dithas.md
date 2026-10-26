@@ -45,7 +45,7 @@ Dithas has 8 unique ingredient climates, with one of them being a transition are
 
 ## Mepheisatha
 
-The region of Mepheisatha takes its name from the colony established by the [Domuz](/wastelife/species-of-person/muz/domuz) people in 2641, and later made an official colony of the [Domuz Republic](/wastelife/factions/barogate-lifeland/domuz-republic) after its re-conquest in 3235. It is a luscious and diverse region with wet topsoil and a prominent river that follows unpredictable paths that shift radically every now and then. 
+The region of Mepheisatha takes its name from the colony established by the [Domuz](/wastelife/species-of-person/muz/domuz) people in 2641, and later made an official colony of the [Domuz Republic](wastelife/factions/barogate-lifeland/domuz-republic.md) after its re-conquest in 3235. It is a luscious and diverse region with wet topsoil and a prominent river that follows unpredictable paths that shift radically every now and then. 
 
 Mepheisatha was once home to the [Dimad](/wastelife/species-of-person/mad/dimad), but due to Domuz colonial expansion the traditional Dimad population has been displaced or integrated into the colony as citizens and workers. 
 

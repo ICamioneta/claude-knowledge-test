@@ -5,7 +5,7 @@ description: No description.
 ---
 Written by [Asdelas Everi](/wastelife/characters/asdelas-everi), Lale-Deornite representing the Eresonia Bureau of Transregional Exploitation, 3rd Bistin 3479.
 
-Related topics: [Domuz Republic](/wastelife/factions/barogate-lifeland/domuz-republic), [Domuz](/wastelife/species-of-person/muz/domuz), [Dithas](/wastelife/regions/barogate-wastes/dithas), [Llyhai](/wastelife/regions/barogate-wastes/llyhai), [Baron-Gazi](/wastelife/factions/raidal/baron-gazi), [Islands of Raidal](wastelife/regions/islands-of-raidal.md), [Ouranxo](wastelife/regions/ouranxo.md), [Mad](mad.md), [Dimad](/wastelife/species-of-person/mad/dimad)
+Related topics: [Domuz Republic](wastelife/factions/barogate-lifeland/domuz-republic.md), [Domuz](/wastelife/species-of-person/muz/domuz), [Dithas](/wastelife/regions/barogate-wastes/dithas), [Llyhai](/wastelife/regions/barogate-wastes/llyhai), [Baron-Gazi](wastelife/factions/raidal/baron-gazi.md), [Islands of Raidal](wastelife/regions/islands-of-raidal.md), [Ouranxo](wastelife/regions/ouranxo.md), [Mad](mad.md), [Dimad](/wastelife/species-of-person/mad/dimad)
 # Prefaces
 Before anything we must address the name of the nation, as internally it is referred to the Republic Union of Gazi, Lale, and Darie. Locals often refer to the country as Gazi Lale Darie while foreigners often drop the Gazi. Locals often use ‘the republic’ in reference to the government.
 

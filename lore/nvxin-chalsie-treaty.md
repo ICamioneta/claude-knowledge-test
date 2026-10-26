@@ -4,7 +4,7 @@ title: Nvxin-Chalsie Treaty
 description: No description.
 ---
 
-Related topics: [Shaikeron](/wastelife/factions/barogate-lifeland/shaikeron), [Domuz Republic](/wastelife/factions/barogate-lifeland/domuz-republic)
+Related topics: [Shaikeron](wastelife/factions/barogate-lifeland/shaikeron.md), [Domuz Republic](wastelife/factions/barogate-lifeland/domuz-republic.md)
 
 
 A copy of the 4th Nvxin-Chalsie Treaty sole copy, held in the Library of All

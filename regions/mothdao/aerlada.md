@@ -3,7 +3,9 @@ title: Aerlada
 description: A vast river network with a collapsing coast
 ---
 
-Aerlada is a land in [Mothdao](wastelife/regions/mothdao) with many large and noteworthy rivers. 
+Aerlada is a land in [Mothdao](wastelife/regions/mothdao) with many large and noteworthy rivers. Inland Aerlada is a green climate where the rivers swerve, diverge, and converge leaving large lakes behind them. The land is flanked from the north and south by mountains: Ethyarac and Dendrene respectively. 
+
+The coast of Aerlada is a wealthy and troubled region. It's dominated by fractured islands, each highly populated. This wealth is juxtaposed by monsoon weather. The island of Ashtrinthaga is the largest and most populous. The circular islands of Cregid and Ethydvande are the geological result of an insane eruption that occurred thousands of years ago.
 
 The land is littered with [Bracai](/wastelife/creatures/misc/bracai) who make its culture noteworthy. It is otherwise relatively sparsely populated. 
 

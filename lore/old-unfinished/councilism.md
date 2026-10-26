@@ -5,7 +5,7 @@ description: No description.
 ---
 By Rosefie Cetyevliefen and the Formists, Preface and revisions by Karsol Maxnen.
 
-Related Topics: [Eresonia](/wastelife/factions/barogate-lifeland/eresonia)
+Related Topics: [Eresonia](wastelife/factions/barogate-lifeland/eresonia.md)
 # Preface
 
 The Commune of the Two Peoples was an egalitarian, anarchic commune that existed from the collapse of the United Terlaye in 1604 up until its integration into the Reimig Empire in 3239. Having existed for a millennium and a half, one might conclude that its government was strong, stable, and knowledgeable until the bitter end. The reality is that the commune had no government.

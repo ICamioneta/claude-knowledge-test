@@ -1,0 +1,38 @@
+{
+	"nodes":[
+		{"id":"836378e79498db49","type":"text","text":"# Jonshur's main circle","x":-570,"y":0,"width":350,"height":60},
+		{"id":"663f0e88e3f26bba","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Oily Josh and the Greasy Boys.md","x":-595,"y":-340,"width":400,"height":300},
+		{"id":"cb0e8e2e291b9554","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Jonshur Oelyn Yvue.md","x":-1320,"y":303,"width":1015,"height":540},
+		{"id":"90a5dbe4873fcc1f","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Shames Isph.md","x":-278,"y":303,"width":540,"height":540},
+		{"id":"7dc94104eaa18dac","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Uvhydtop yh Ikchyt.md","x":282,"y":303,"width":320,"height":540},
+		{"id":"e6bbc59f561e5eae","type":"text","text":"# Greasy Healers","x":-532,"y":920,"width":275,"height":60},
+		{"id":"58e89618367d9dc1","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Nath Indith.md","x":-1120,"y":1160,"width":400,"height":400},
+		{"id":"57e3bc58e527957f","type":"text","text":"# Religious Folk","x":-720,"y":1700,"width":286,"height":60},
+		{"id":"84a8fa3084fb404d","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Mamlel Yancon.md","x":-657,"y":1160,"width":517,"height":400},
+		{"id":"0fbd3906f607c3fe","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Chad Bixbi.md","x":-337,"y":1920,"width":400,"height":400},
+		{"id":"d59f065c20db571b","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Andu of the Greasy Boys.md","x":-777,"y":1920,"width":400,"height":400},
+		{"id":"f780a29fc08b78e2","type":"text","text":"","x":-568,"y":2249,"width":250,"height":60},
+		{"id":"67e54c072b841d7c","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Shames Ustei.md","x":-1220,"y":1920,"width":400,"height":400},
+		{"id":"515e6d5c584a4726","type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Levi Entu.md","x":602,"y":1160,"width":400,"height":400},
+		{"id":"56df6cf72e60816a","x":160,"y":1160,"width":400,"height":400,"type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Sumishu Shara.md"},
+		{"id":"d82c3abb0b00daf7","x":1040,"y":1160,"width":400,"height":400,"type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Zeatet Mishimy.md"},
+		{"id":"1359268ce41daa52","x":1480,"y":1160,"width":400,"height":400,"type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Maenie Posartem.md"},
+		{"id":"e69e861eb61fe37c","type":"text","text":"# Unsorted","x":877,"y":890,"width":250,"height":60},
+		{"id":"1f237834c6e448a0","x":640,"y":303,"width":340,"height":540,"type":"file","file":"Meta/Characters/Oily Josh and the Greasy Boys/Pevir Nimtet.md"}
+	],
+	"edges":[
+		{"id":"ce9ee108e53b0bab","fromNode":"836378e79498db49","fromSide":"bottom","toNode":"cb0e8e2e291b9554","toSide":"top"},
+		{"id":"cf8415a0b7371814","fromNode":"836378e79498db49","fromSide":"bottom","toNode":"90a5dbe4873fcc1f","toSide":"top"},
+		{"id":"40a46fb73c46fbaf","fromNode":"836378e79498db49","fromSide":"bottom","toNode":"7dc94104eaa18dac","toSide":"top"},
+		{"id":"80cbbad054700e64","fromNode":"e6bbc59f561e5eae","fromSide":"bottom","toNode":"58e89618367d9dc1","toSide":"top"},
+		{"id":"61192257a190753e","fromNode":"57e3bc58e527957f","fromSide":"bottom","toNode":"d59f065c20db571b","toSide":"top"},
+		{"id":"838b37681ed605f7","fromNode":"57e3bc58e527957f","fromSide":"bottom","toNode":"67e54c072b841d7c","toSide":"top"},
+		{"id":"bc0719e1669d49e4","fromNode":"e6bbc59f561e5eae","fromSide":"bottom","toNode":"84a8fa3084fb404d","toSide":"top"},
+		{"id":"7ba11e2e40aeb5be","fromNode":"57e3bc58e527957f","fromSide":"bottom","toNode":"0fbd3906f607c3fe","toSide":"top"},
+		{"id":"329483ed0ccb518f","fromNode":"e69e861eb61fe37c","fromSide":"bottom","toNode":"515e6d5c584a4726","toSide":"top"},
+		{"id":"6e49a7e6670329ee","fromNode":"e69e861eb61fe37c","fromSide":"bottom","toNode":"56df6cf72e60816a","toSide":"top"},
+		{"id":"3c71cc999e485d96","fromNode":"e69e861eb61fe37c","fromSide":"bottom","toNode":"d82c3abb0b00daf7","toSide":"top"},
+		{"id":"e87281a27b565a74","fromNode":"e69e861eb61fe37c","fromSide":"bottom","toNode":"1359268ce41daa52","toSide":"top"},
+		{"id":"0cbb2032fd7b6f4e","fromNode":"836378e79498db49","fromSide":"bottom","toNode":"1f237834c6e448a0","toSide":"top"}
+	]
+}

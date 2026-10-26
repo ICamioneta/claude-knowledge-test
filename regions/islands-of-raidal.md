@@ -7,7 +7,7 @@ This document contains all the detailed islands of Raidal.
 
 # Lynlanes
 ![[Lynlanes tiny.png]]
-Lynlanes, or Llynllanes, is a large archipelago consisting of 5 major islands and 11 minor islands. It is a place of high conflict between the factions of [Baron-Gazi](/wastelife/factions/raidal/baron-gazi) and [Kingdom Naxdyme](/wastelife/factions/raidal/kingdom-naxdyme). Baron-Gazi owns the 3 westmost major islands alongside the 7 minor islands attached, while Red Storm owns the 2 eastmost major islands alongside the 3 minor islands north of those. In between the two regions of control sits islands of high contention. The Baron-Gazi island of Blava, or the Naxdyme island of Texo, is in disputed control. Seen below are the names of every island that is part of the archipelago.
+Lynlanes, or Llynllanes, is a large archipelago consisting of 5 major islands and 11 minor islands. It is a place of high conflict between the factions of [Baron-Gazi](wastelife/factions/raidal/baron-gazi.md) and [Kingdom Naxdyme](wastelife/factions/raidal/kingdom-naxdyme.md). Baron-Gazi owns the 3 westmost major islands alongside the 7 minor islands attached, while Red Storm owns the 2 eastmost major islands alongside the 3 minor islands north of those. In between the two regions of control sits islands of high contention. The Baron-Gazi island of Blava, or the Naxdyme island of Texo, is in disputed control. Seen below are the names of every island that is part of the archipelago.
 
 ![Llynllanes Labeled.png](/wastelife/region-maps/llynllanes/llynllanes-labeled.png)
 The bay created by the three Baron-Gazi islands is called Lynlanes, and the other islands inheret that name as a proximal group. Geographically, Acadym, Ceseison, and Suribls are flat or hilly, while Tindenfara and Tijil are mountainous. In the hand-drawn map, there are three shades of green. The bluemost one represents low, flat, and fertile lands. The greenest colour represents a hilly environment. The darker green represents a mountainous environment dominated by forests.
@@ -89,3 +89,6 @@ This is a list of settlements on the islands of Llynllanes with short descriptio
 - Ndofair
 - Bvis Dkgir
 
+# Name Origin
+
+This name came from the words ‘Silver Islands’, which would be ‘Raian Dal’. This is a very simple name origin, so I might as well address the geography. Raidal is a collection of islands extending from the straight and leading to the continent Raixzer. The islands are home to many tales inspired by ancient Ghzish legends based on the homelands of the Cithral, and several powerful sea-faring nations that ride on excellent boats.

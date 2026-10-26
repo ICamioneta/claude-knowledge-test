@@ -23,7 +23,7 @@ infobox:
 
 Duela is a swamp region in Barogate's Wastes. It is largely a salty mangrove swamp, with trees standing on stilts above the mud. 
 
-The region is dominated by the [Rutefall](/wastelife/species-of-person/fall/rutefall). They mostly operate in territorial tribes alongside [Difmuz](/wastelife/species-of-person/muz/difmuz), [Tudofall](/wastelife/species-of-person/fall/tudofall), and [Matafall](/wastelife/species-of-person/fall/matafall). These tribes are known as the [Okung Kinships](/wastelife/factions/barogate-wastes/okung-kinships). Many inhabitants aren't kin, but live with their respect. 
+The region is dominated by the [Rutefall](/wastelife/species-of-person/fall/rutefall). They mostly operate in territorial tribes alongside [Difmuz](/wastelife/species-of-person/muz/difmuz), [Tudofall](/wastelife/species-of-person/fall/tudofall), and [Matafall](/wastelife/species-of-person/fall/matafall). These tribes are known as the [Okung Kinships](wastelife/factions/barogate-wastes/okung-kinships.md). Many inhabitants aren't kin, but live with their respect. 
 
 The Duela borders [Dithas](/wastelife/regions/barogate-wastes/dithas) and [Kyenel](/wastelife/regions/barogate-wastes/kyenel). 
 
@@ -53,7 +53,7 @@ Ichmenre, which borders Edlyue, is dramatic. The land goes from around 20 metres
 
 ## Burnt Hills
 
-The burnt hills are a sloping region between Barthe and Ichmenre. They're hilly, mountainous even, and under the domain of [Ichmenre](/wastelife/factions/barogate-wastes/the-kingdom-of-ichmenre). 
+The burnt hills are a sloping region between Barthe and Ichmenre. They're hilly, mountainous even, and under the domain of [Ichmenre](wastelife/factions/barogate-wastes/the-kingdom-of-ichmenre.md). 
 
 # Fauna
 

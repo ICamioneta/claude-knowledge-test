@@ -4,7 +4,7 @@ description: A pocket of life in a barren mountain valley
 image: /wastelife/region-maps/acvidaras/acvidaras.png/
 ---
 
-Acvidaras is the name of a small region in [The Heabe](/wastelife/regions/barogate-wastes/the-heabe) with crossover with [Gordolmonre](/wastelife/regions/barogate-wastes/gordolmonre) most notable for the lake Abla Acvitei and [Hegrel](/wastelife/factions/barogate-wastes/hegrel) and all of its surrounding landmarks. There are not many places in the Heabe as dense as Acvidaras, as it has four towns, a city, and an ancient ruin all within walking distance of each other.
+Acvidaras is the name of a small region in [The Heabe](/wastelife/regions/barogate-wastes/the-heabe) with crossover with [Gordolmonre](/wastelife/regions/barogate-wastes/gordolmonre) most notable for the lake Abla Acvitei and [Hegrel](wastelife/factions/barogate-wastes/hegrel.md) and all of its surrounding landmarks. There are not many places in the Heabe as dense as Acvidaras, as it has four towns, a city, and an ancient ruin all within walking distance of each other.
 
 ![Acvidaras.png](/wastelife/region-maps/acvidaras/acvidaras.png)
 

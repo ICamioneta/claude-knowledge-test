@@ -5,7 +5,7 @@ description: No description.
 ---
 by [Harvey Audin](/wastelife/characters/harvey-audin), a scholar at the Jonati University of Barogate Lore.
 
-Related topics: [The Empire of Ralean](/wastelife/factions/barogate-lifeland/the-empire-of-ralean), [Ralean](ralean.md), 
+Related topics: [The Empire of Ralean](wastelife/factions/barogate-lifeland/the-empire-of-ralean.md), [Ralean](ralean.md), 
 # Introduction
 I am Harvey, a scholar at the University of Barogate Lore in Northern Ralean. As part of my studies, I have taken an interest onto the history behind the current state of the Ralean Empire. I wanted to know why the south is as it is. I wanted to know why Terlaye was part of the Empire’s lands. I wanted to understand the beginnings of the empire, why its capital is Cania. I spent the past few years lobbying historians, speaking to old Empire officials all to complete this brief history of the Ralean Empire.
 

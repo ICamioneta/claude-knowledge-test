@@ -24,7 +24,7 @@ A frog-like Gan created from the Ce'gan in -5800 by Hell, [Lleh](/wastelife/secr
 
 In -5400, Cryver modified the Coesgan to give them naturally stronger muscles. 
 
-Around the year 100, there was a mass migration of Coesgan from Annwvyn to [Barogate](barogate.md) and [Anula](wastelife/regions/Anula.md). Although these gan are identical in subspecies to the Coesgan, they are often referred to as the [Akiiogan](/wastelife/species-of-person/gan/akiiogan) (from [Thagryene](/wastelife/regions/anula/thagryene) in Anula) and the [Korongan](/wastelife/species-of-person/gan/korongan) (from [Cronar](/wastelife/regions/barogate-wastes/cronar) in Barogate).
+Around the year 100, there was a mass migration of Coesgan from Annwvyn to [Barogate](barogate.md) and [anula](wastelife/regions/anula.md). Although these gan are identical in subspecies to the Coesgan, they are often referred to as the [Akiiogan](/wastelife/species-of-person/gan/akiiogan) (from [Thagryene](/wastelife/regions/anula/thagryene) in Anula) and the [Korongan](/wastelife/species-of-person/gan/korongan) (from [Cronar](/wastelife/regions/barogate-wastes/cronar) in Barogate).
 
 **[Deimgan](/wastelife/species-of-person/gan/deimgan)**
 The Deimgan resemble Axolotls. They were diverged by Lleh recently in 1100 after she took a random interest to the natural Axolotls found on Annwvyn. 

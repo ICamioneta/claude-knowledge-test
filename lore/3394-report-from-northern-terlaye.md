@@ -3,7 +3,7 @@
 title: 3394 Report from Northern Terlaye
 description: No description.
 ---
-Related topics: [Lindi](/wastelife/species-of-person/other/lindi), [7th Northern Corps](/wastelife/factions/barogate-lifeland/7th-northern-corps), [The Empire of Ralean](/wastelife/factions/barogate-lifeland/the-empire-of-ralean), [Terlaye](terlaye.md)
+Related topics: [Lindi](/wastelife/species-of-person/other/lindi), [7th Northern Corps](wastelife/factions/barogate-lifeland/7th-northern-corps.md), [The Empire of Ralean](wastelife/factions/barogate-lifeland/the-empire-of-ralean.md), [Terlaye](terlaye.md)
 ## preface
 This is a collection of scouting reports made by military reconnaissance scouts under the employ of Emperor Canita Reimig, Ruion Reimig's father and predecessor. During the 3390s, several military reconnaissance scouts were sent to Terlaye and managed to successfully gather important strategic information that lead to Canita's successful war against the Kingdoms of Terlaye in 3400.
 # Scouting Report: 3 Bistin Dekja 3394

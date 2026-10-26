@@ -21,7 +21,7 @@ infobox:
         value: 680,000
 ---
 
-The heabe is a vast and uniform dry seasonal grassland. During wet season, the water table runs high, but during dry season it leaks towards the lower parts of the heabe. It's inhabited by the [Ens](ens.md) who follow the water to graze their animals and hunt. The Ens communities are harassed by the hegemonic [Aredvic tribes](/wastelife/factions/barogate-wastes/aredvic), who dominate trade across the steppe with their chariots. They trade from between [Dithas](/wastelife/regions/barogate/dithas), [Vugaix](/wastelife/regions/barogate/vugaix), [Gordolmonre](/wastelife/regions/barogate/gordolmonre), [Darie](/wastelife/regions/barogate/gazi-lale-darie), [Terlaye](/wastelife/regions/barogate/terlaye), and [Ralean](/wastelife/regions/barogate/ralean) on highly lucrative routes.
+The heabe is a vast and uniform dry seasonal grassland. During wet season, the water table runs high, but during dry season it leaks towards the lower parts of the heabe. It's inhabited by the [Ens](ens.md) who follow the water to graze their animals and hunt. The Ens communities are harassed by the hegemonic [Aredvic tribes](wastelife/factions/barogate-wastes/aredvic.md), who dominate trade across the steppe with their chariots. They trade from between [Dithas](/wastelife/regions/barogate/dithas), [Vugaix](/wastelife/regions/barogate/vugaix), [Gordolmonre](/wastelife/regions/barogate/gordolmonre), [Darie](/wastelife/regions/barogate/gazi-lale-darie), [Terlaye](/wastelife/regions/barogate/terlaye), and [Ralean](/wastelife/regions/barogate/ralean) on highly lucrative routes.
 
 # Geography and climate
 

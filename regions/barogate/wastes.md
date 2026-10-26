@@ -19,4 +19,5 @@ Although considered desert, some regions do receive nominal non-desert-like rain
 The Wastes are also known for the presence of the silver ruins across its regions. These ruins predate the discovery of the Mortal Realm by the gods, as they have confirmed that they were there when they found the mortal realm.
 
 # Name Origin
+
 When Daklyn visited DeMoch, many people and cultural stories would have referred to the region Difath. This is the Cithrali name for the desert region. Daklyn had transformed it into a diverse and surprisingly luscious region, and felt that even the name "The Wastes" (the literal translation of Difath, or more properly aDifathle) was a little unfitting. However, it was chosen, and is used as a general category for the area, as "lifeland" is a general category that laps everything Barogate that is not the wastes.

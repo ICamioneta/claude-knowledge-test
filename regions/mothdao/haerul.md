@@ -5,9 +5,11 @@ description: No description.
 
 Haerul is a desert region of [Mothnial](/wastelife/regions/mothdao/mothnial) in [Mothdao](mothdao.md). It has a characteristic river flowing through it which is [Nile](https://en.wikipedia.org/wiki/Nile) like. The river is also called the Nila, because I think it's kind of funny to lean into seemingly derivative names while actually being completely original. It is pretty much the only place with civilisation in Mothnial. This river's sources are incredibly fresh springs that come from some mountains. 
 
-The entirety of the Haerul population lives around the Nila river. The most populous region is the delta. The river and it's tributaries support rich year round farming and wood gathering. The bridges crossing the Nila are important to local culture. 
+The entirety of the Haerul population lives around the Nila river. The most populous region is the delta called Safies Atolh. The river and it's tributaries support rich year round farming and wood gathering. The bridges crossing the Nila are important to local culture. 
 
 Haerul is primarily inhabited by the dark skinned Goumuz, as well as the bridge building Caerostpri. Haerul has a loose sense of nation and has no ruler, instead it is loosely democratic. 
+
+North of Haerul are the Onosrac mountains and [Asenhal](/wastelife/regions/mothdao/asenhal). To the south are the Kardirac mountains and [Aerlada](/wastelife/regions/mothdao/aerlada). To the west is [Hebas Deryd](/wastelife/regions/mothdao/hebas-deryd). 
 
 # Name Origin
 

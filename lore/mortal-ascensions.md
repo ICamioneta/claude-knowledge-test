@@ -8,6 +8,7 @@ Related: [The Gods](the-gods.md), [Cryver](/wastelife/secret/eternity/eternals/c
 This is a collection of stories on Mortal Ascensions. For those unaware, it is said that if a mortal dedicates themselves to a domain in the same way that a God dedicates themselves to their domain, then that mortal will be capable of ascension to Eternity. Another God must help them with the final steps. Usually, this is Medr, the God of Skill, as this process is considered a skill. However, in rare cases such as one covered in this collection, other gods have ascended mortals. 
 
 # Cryver, the first Mortal Ascension
+
 Cryver's house was on fire, and within it lied his son underneath a burning wood truss. Cryver tried to lift the truss, but with no success. His son remained trapped. He watched his son die knowing that only if he were strong enough, he would have been able to save his son. There, he dedicated his life to strength training every day. He prayed to Medr before every day hoping that his training would be successful. At the end of every day, he would try to lift a wooden truss like the one that had killed his son, hoping that he would finally be strong enough. 
 
 Decades had passed, but he still could not lift the truss. He cried out to Medr, cursing that she did not make men capable of the strength needed to lift the truss. Then Medr appeared to him, and Medr made a proposition to Cryver. She said that he would let Cryver decide how strong people can be, so that they would be strong enough to lift the truss, and that she would make Cryver an Eternal, the Eternal of Strength. Medr said to Cryver that he would help others to go through what he went through, and worse. Cryver was to become a God in return for his eternal service to mortals. 
@@ -15,6 +16,7 @@ Decades had passed, but he still could not lift the truss. He cried out to Medr,
 Cryver took the offer, and he said to Medr to let people win enough strength to carry houses. Then, Cryver ascended to Eternity, and he became the God of Strength, not only in body but also in mind. 
 
 # Tanea and the 75 Great Relics
+
 Millennia ago when the Gan first found iron and when the technology had spread to the corners of Barogate, there was a Domuz smith living in the Lale called Tanea. They were a skilled smith, making high quality farm tools or weapons on commission. One day when smithing, passers noticed an odd behaviour from Tanea. He was saying meaningless phrases, and forging like a mad man. He had been cursed by the God of Madness, Gwalloph. He still paid his suppliers, so the people let him forge, mad with the prospects of completing some impossible project.  
 
 He had been working for decades when passers could hear him get exasperated. He was almost angry, shouting insanities aloud like "They must be complete" and "I need more time". Not long after, he collapsed without explanation. All of the items he had forged in his madness disappeared alongside his life. 
@@ -22,6 +24,7 @@ He had been working for decades when passers could hear him get exasperated. He 
 On that day, a new God entered Eternity. Medr had been watching Tanea in his final moments, and noticed that he could be ascended. So she did so, and Adnabyd taught Tanea how to be a God. When Tanea created his realm of Eternity, he saw the seventy-five projects he had worked on during his mortal life. He decided that with his newfound power he would finish his mortal work, and gave the seventy-five artefacts seventy-five powerful permanent enchantments. He scattered his seventy-five great relics across the Mortal Realm as a memory of his former self, and now adventurers and all alike scour the world for their resting places. 
 
 # Adferiad and the Temple of Healing
+
 Adferiad’s childhood was ridden with war. She was born to a soldier and lived her earlier life as a camp follower, seeing the death and destruction that war brought with her innocent eyes. But, as she grew up, instead of becoming a child of this war she became a peaceful figure who helped all that she could. After reaching an age where she could leave her carers in a war-camp, she decided to get into politics with one goal: end the senseless struggle of war that dominated her childhood.
 
 The year was -2160. Adferiad grew up experiencing the horrible War of the River. Instead of becoming a propagator of it like many others did, she went to a city in Vezoen and swore that she’d end the war if it was her dying breath that did it. She spent a decade fully understanding the war and its history, even though much of history had been lost to it. She became a loved person for being a person who showed love to all hurt things. She eventually managed to lead a group of people in helping fallen armies and nursing them back to health.
@@ -33,6 +36,7 @@ Once the fighting had stopped, Adferiad decided to create an order with the peop
 Eventually, she became not only the most well-known healer in the world but also the best at her skill. She could bring people back from the dead with her knowledge in healing. Medr saw this skill in Adferiad, and came to her with the knowledge that she could be made to ascend. Adferiad took up this offer, knowing that her domain would be that of healing, and that she would be able to save more mortal lives as a God than she ever could as a Mortal.
 
 # Ofidea and the Snakes
+
 Ofidea was not like other people. She spent a lot of her time with snakes. Ofidea was a Difmuz Sandcamper, living in the great deserts of Kyenel. From a young age, she was accidentally left behind by her Difmuz family, and wandered off in a random direction to find them. Unfortunately, she had gotten herself lost by falling down into a sandy ditch, so that when her parents came back they could not find her as hard as they looked.
 
 Down in this sandy ditch all alone, Ofidea had nothing to do but wait, perhaps for enough sand to blow in so that she could walk out. Within the same day, a snake found Ofidea, this young girl stuck in this hole. It crept up on her, ready to attack a free meal it found in the empty desert. That is when Ofidea, in all of her courage and wisdom, grabbed the snake from behind her by the neck. She looked at this snake, treating its struggling body with great care, and decided to name it Davin.
@@ -68,6 +72,7 @@ Medr, who at this time was learning some old Ens skill that had only just been c
 Ofidea stated she already felt Eternal to the snakes, them living no longer than two decades. She had seen the life and death of so many of her followers and their families. She said that becoming an Eternal wouldn’t change how she felt, but she accepted the offer anyway. She was excited, knowing that she could have snakes as her domain. So, when Ofidea died, she ascended to Eternity and became the God of Snakes.
 
 # Mwender, the God-Emperor of Annwvyn
+
 Mwender was born in 723 as the child of a prominent king in Annwvyn. They were taught of their continent, and soon believed that all of Annwvyn should be theirs. So they studied hard in the matters of the court and of war, and when their parents died they rose to a weak throne with one goal. They were to become the Emperor of all Annwvyn. 
 
 Mwender spent sixty long years working to make himself the emperor of Annwvyn. Many kingdoms he was able to negotiate collaboration and subservience with, often with some careful condition that Mwender would have to balance. Other lands, Mwender was able to conquer directly with his champions and knights. After fifty years, they spent a large sum of money paying a true master of the arts to create the most grand throne for his seat over Annwvyn. After sixty long years, they only had one more land to ask to join his Empire, one final ultimatum to become the Emperor of all Annwvyn. 
@@ -81,6 +86,7 @@ Mwender did not know this, but many of the gods were present during Mwender's fi
 Mwender ruled the Throne of Annwvyn from godhood while they were discovering their domain. But they grew bored of this mortal affair, and soon abdicated the throne. The Empire of all Annwvyn would only last 26 years, and after Mwender's abdications the throne would fall into ruin and legend, ushering an age of war between the kingdoms that Mwender had spent his mortal life brokering peace between. Mwender is said to have larger ambitions he abandoned the throne for, ambitions that no mortal could understand.
 
 # Leider and Medr
+
 Leider was born into a life of banditry. Originally hailing from Annwvyn in poor conditions that would warrant the success of banditry, they formed a roving bandit group. The group would grow in size until it had touched and robbed every corner of Annwvyn. When there was nothing left to rob, he had his group of roving bandits to another continent - to Barogate - to continue his lifestyle built on the backs of stealing and pillage.
 
 After he had pillaged all of Annwvyn, Medr took a special interest in Leider. She saw that he had a skill that she craved to help him develop, hoping that she too might learn this skill. Medr joined the roving bandits, initially under a hidden persona, knowing that her skills would eventually have her rise in the ranks and rule by Leider's side. 
@@ -92,6 +98,7 @@ Medr's secrecy did not last for long. Shortly after she was pillaging alongside 
 Medr had always seen the capacity of ascension in Leider, but she kept it a secret from him until the moments of his death. Leider reached the old age of seventy-five when he died. The mortals would not know it for a hundred years, but Medr had ascended Leider to godhood, and Leider had become the God of Banditry. The Roving Bandits were lead by Leider's sons for a while after his death, but they eventually settled permanently after conquering some lands in Ouranxo.
 
 # Tharn, the Necromancer
+
 Tharn the Necromancer is a character in recent memory. Across all of Shildo, crypts were sealed up in hopes that one of Tharn's conduits would not sneak in and raise a city's leagues of ancestors. Tharn first rose and conquered a large section of southern Terlaye. From there, he continually expanded his Kingdom of the Dead for thirty years. 
 
 He was only defeated when a hero united six pieces of a legendary staff and united the Kingdoms of Shildo in one final glorious battle in which the Hero killed Tharn and his legions of the dead were left without a king. Throughout the twenty years of Tharn's rule he had created millions of undead soldiers to his cause, so cleaning up after his death was a challenge shared between across all of Shildo. 

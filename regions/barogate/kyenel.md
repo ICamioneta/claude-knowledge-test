@@ -37,4 +37,5 @@ Kyenel's main plateau is 1200m above sea level. This plateau has gentle slopes r
 The Vulture represents survival in Kyenel, sight of one is a good omen as it means a fallen giant is nearby, which is a place of truce and feast for all animals as long as there is still plentiful food left.
 
 # Name Origin
+
 'Kyenel' as a name chosen by Daklyn actually has no origin. Daklyn just made up the name to describe the desert. 'Desert' in Gazish is 'nihal' which isn't even close.
