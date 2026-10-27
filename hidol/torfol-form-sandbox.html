@@ -1,0 +1,243 @@
+
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:var(--font-sans);font-size:14px;color:var(--color-text-primary)}
+h3{font-size:16px;font-weight:500;margin-bottom:12px}
+h4{font-size:13px;font-weight:500;color:var(--color-text-secondary);margin-bottom:8px}
+.panel{background:var(--color-background-primary);border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-lg);padding:1rem 1.25rem;margin-bottom:12px}
+.row{display:flex;gap:12px;margin-bottom:8px;align-items:center}
+.row label{font-size:12px;color:var(--color-text-secondary);width:48px;flex-shrink:0}
+.row input[type=number]{width:80px;font-size:13px;padding:4px 8px;border:0.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md);background:var(--color-background-secondary);color:var(--color-text-primary)}
+.row input[type=range]{flex:1}
+.row .val{font-size:13px;font-weight:500;min-width:36px;text-align:right}
+.grid2{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+.tag{display:inline-block;font-size:11px;padding:2px 8px;border-radius:var(--border-radius-md);background:var(--color-background-info);color:var(--color-text-info);margin-bottom:8px}
+.eig-block{border-top:0.5px solid var(--color-border-tertiary);padding-top:8px;margin-top:8px}
+.eig-row{display:flex;gap:8px;align-items:baseline;margin-bottom:4px;font-size:13px}
+.eig-lam{font-weight:500;min-width:60px}
+.eig-vec{font-family:var(--font-mono);font-size:12px;color:var(--color-text-secondary)}
+.matrix-grid{display:grid;gap:2px;margin:6px 0}
+.mcell{font-family:var(--font-mono);font-size:12px;padding:3px 6px;background:var(--color-background-secondary);border-radius:4px;text-align:right}
+.btn{padding:7px 18px;font-size:13px;border:0.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md);background:transparent;color:var(--color-text-primary);cursor:pointer;margin-top:4px}
+.btn:hover{background:var(--color-background-secondary)}
+.note{font-size:12px;color:var(--color-text-secondary);margin-top:6px}
+.heat{width:100%;height:8px;border-radius:4px;margin-top:3px}
+select{font-size:13px;padding:4px 8px;border:0.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md);background:var(--color-background-secondary);color:var(--color-text-primary)}
+</style>
+
+<div style="padding:1rem 0">
+
+<div class="panel">
+<h3>Form vector inputs</h3>
+<p class="note" style="margin-bottom:12px">Each F<sub>n</sub> is a vector in ℝ<sup>dim</sup>. Set dimension per form, then enter components.</p>
+
+<div class="grid2">
+<div>
+  <div class="tag">Torfol A — V<sub>a</sub></div>
+  <div id="va-forms"></div>
+  <div style="display:flex;gap:8px;align-items:center;margin-top:8px">
+    <label style="font-size:12px;color:var(--color-text-secondary)">Add F<sub>n</sub>:</label>
+    <select id="va-dim"><option>1</option><option selected>2</option><option>3</option><option>4</option></select>
+    <button class="btn" onclick="addForm('a')">+ form</button>
+  </div>
+</div>
+<div>
+  <div class="tag" style="background:var(--color-background-success);color:var(--color-text-success)">Torfol B — V<sub>b</sub></div>
+  <div id="vb-forms"></div>
+  <div style="display:flex;gap:8px;align-items:center;margin-top:8px">
+    <label style="font-size:12px;color:var(--color-text-secondary)">Add F<sub>n</sub>:</label>
+    <select id="vb-dim"><option>1</option><option selected>2</option><option>3</option><option>4</option></select>
+    <button class="btn" onclick="addForm('b')">+ form</button>
+  </div>
+</div>
+</div>
+<button class="btn" style="margin-top:12px;width:100%" onclick="compute()">Compute V<sub>a</sub> ★ V<sub>b</sub> →</button>
+</div>
+
+<div id="results" style="display:none">
+<h3 style="margin-bottom:8px">Results — M<sub>ab</sub></h3>
+
+<div id="form-results"></div>
+
+<div class="panel" style="margin-top:12px">
+<h4>π<sub>ℳ</sub> mapping designer</h4>
+<p class="note" style="margin-bottom:10px">Assign a label/meaning to each eigen-direction to prototype your projection function.</p>
+<div id="pi-table"></div>
+<button class="btn" style="margin-top:8px" onclick="sendPrompt('Based on the eigenvector analysis in the torfol form sandbox, help me design what πℳ should map each eigen-direction to. The dominant eigenvalue directions found are: ' + getEigenSummary())">Ask Claude to help design π<sub>ℳ</sub> ↗</button>
+</div>
+</div>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjs/12.4.2/math.min.js"></script>
+<script>
+const state = { a: [], b: [] };
+let formCount = { a: 0, b: 0 };
+
+function addForm(side) {
+  const dimSel = document.getElementById(side === 'a' ? 'va-dim' : 'vb-dim');
+  const dim = parseInt(dimSel.value);
+  const idx = formCount[side]++;
+  const vec = Array(dim).fill(0);
+  state[side].push({ dim, vec, idx });
+  renderForms(side);
+}
+
+function renderForms(side) {
+  const container = document.getElementById(side === 'a' ? 'va-forms' : 'vb-forms');
+  container.innerHTML = '';
+  state[side].forEach((f, fi) => {
+    const block = document.createElement('div');
+    block.style.cssText = 'border:0.5px solid var(--color-border-tertiary);border-radius:var(--border-radius-md);padding:8px;margin-bottom:6px';
+    let inner = `<div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:6px"><span style="font-size:12px;font-weight:500">F<sub>${fi+1}</sub> ∈ ℝ<sup>${f.dim}</sup></span><span style="font-size:11px;color:var(--color-text-secondary);cursor:pointer" onclick="removeForm('${side}',${fi})">✕</span></div>`;
+    f.vec.forEach((v, ci) => {
+      inner += `<div class="row"><label style="width:32px">e<sub>${ci+1}</sub></label><input type="range" min="-5" max="5" step="0.1" value="${v}" oninput="updateComp('${side}',${fi},${ci},+this.value);this.nextElementSibling.textContent=parseFloat(this.value).toFixed(1)"><span class="val">${v.toFixed(1)}</span><input type="number" style="width:60px" value="${v}" step="0.1" oninput="updateComp('${side}',${fi},${ci},+this.value)"></div>`;
+    });
+    block.innerHTML = inner;
+    container.appendChild(block);
+  });
+}
+
+function removeForm(side, fi) {
+  state[side].splice(fi, 1);
+  renderForms(side);
+}
+
+function updateComp(side, fi, ci, val) {
+  state[side][fi].vec[ci] = val;
+}
+
+function outerProduct(a, b) {
+  const m = a.length, n = b.length;
+  const R = [];
+  for (let i = 0; i < m; i++) { R.push([]); for (let j = 0; j < n; j++) R[i].push(a[i] * b[j]); }
+  return R;
+}
+
+function addMat(A, B) {
+  return A.map((row, i) => row.map((v, j) => v + B[i][j]));
+}
+
+function scaleMat(s, A) {
+  return A.map(row => row.map(v => v * s));
+}
+
+function symmetricOuter(fa, fb) {
+  if (fa.length !== fb.length) return null;
+  const oa = outerProduct(fa, fb);
+  const ob = outerProduct(fb, fa);
+  return scaleMat(0.5, addMat(oa, ob));
+}
+
+function jacobiEigen(A)
+{
+  const n = A.length;
+  let a = A.map(r => [...r]); // copy of the matrix to work on
+  let V = Array.from({length:n}, (_,i) => Array.from({length:n}, (_,j) => i===j?1:0)); // identity matrix
+
+  for (let sweep = 0; sweep < 50; sweep++) // jacobi sweeps
+  {
+    for (let p = 0; p < n-1; p++)
+    {
+      for (let q = p+1; q < n; q++)
+      {
+        if (Math.abs(a[p][q]) < 1e-12) continue;
+        const theta = 0.5 * Math.atan2(2*a[p][q], a[q][q]-a[p][p]);
+        const c = Math.cos(theta), s = Math.sin(theta);
+        const newA = a.map(r=>[...r]);
+        for (let i = 0; i < n; i++)
+        {
+          newA[i][p] = c*a[i][p] + s*a[i][q];
+          newA[i][q] = -s*a[i][p] + c*a[i][q];
+        }
+        for (let i = 0; i < n; i++)
+        {
+          newA[p][i] = c*a[p][i] + s*a[q][i];
+          newA[q][i] = -s*a[p][i] + c*a[q][i];
+        }
+        newA[p][p] = c*c*a[p][p] + 2*s*c*a[p][q] + s*s*a[q][q];
+        newA[q][q] = s*s*a[p][p] - 2*s*c*a[p][q] + c*c*a[q][q];
+        newA[p][q] = newA[q][p] = 0;
+        a = newA;
+        const newV = V.map(r=>[...r]);
+        for (let i = 0; i < n; i++)
+        {
+          newV[i][p] = c*V[i][p] + s*V[i][q];
+          newV[i][q] = -s*V[i][p] + c*V[i][q];
+        }
+        V = newV;
+      }
+    }
+  }
+  const eigs = a.map((row,i) => ({ val: row[i], vec: V.map(r=>r[i]) }));
+  eigs.sort((x,y) => Math.abs(y.val)-Math.abs(x.val));
+  return eigs;
+}
+
+let lastEigens = [];
+
+function getEigenSummary() {
+  return lastEigens.map(e => `λ=${e.val.toFixed(3)} vec=[${e.vec.map(v=>v.toFixed(3)).join(', ')}]`).join(' | ');
+}
+
+function compute() {
+  const va = state.a, vb = state.b;
+  if (va.length === 0 || vb.length === 0) { alert('Add at least one form to each torfol.'); return; }
+  const minLen = Math.min(va.length, vb.length);
+  const resultDiv = document.getElementById('form-results');
+  resultDiv.innerHTML = '';
+  lastEigens = [];
+  const piRows = [];
+
+  for (let fi = 0; fi < minLen; fi++) {
+    const fa = va[fi].vec, fb = vb[fi].vec;
+    if (fa.length !== fb.length) {
+      resultDiv.innerHTML += `<div class="panel" style="color:var(--color-text-danger)">F<sub>${fi+1}</sub>: dimension mismatch (${fa.length} vs ${fb.length}) — skipping</div>`;
+      continue;
+    }
+    const Fc = symmetricOuter(fa, fb);
+    const eigs = jacobiEigen(Fc);
+    lastEigens.push(...eigs);
+
+    const block = document.createElement('div');
+    block.className = 'panel';
+    const dim = fa.length;
+    const gridCols = `grid-template-columns:repeat(${dim},1fr)`;
+
+    let matHtml = `<div class="matrix-grid" style="${gridCols}">` +
+      Fc.map(row => row.map(v => `<div class="mcell">${v.toFixed(3)}</div>`).join('')).join('') +
+      '</div>';
+
+    let eigHtml = '<div class="eig-block">';
+    eigs.forEach((e, ei) => {
+      const pct = Math.min(100, Math.abs(e.val / (eigs[0].val || 1)) * 100);
+      const col = e.val > 0.01 ? '#378ADD' : e.val < -0.01 ? '#D85A30' : '#888780';
+      eigHtml += `<div class="eig-row"><span class="eig-lam">λ<sub>${ei+1}</sub> = ${e.val.toFixed(3)}</span><span class="eig-vec">[${e.vec.map(v=>v.toFixed(3)).join(', ')}]</span></div>`;
+      eigHtml += `<div class="heat" style="background:linear-gradient(to right,${col} ${pct.toFixed(0)}%,var(--color-background-secondary) ${pct.toFixed(0)}%)"></div>`;
+      piRows.push({ fi: fi+1, ei: ei+1, val: e.val, vec: e.vec });
+    });
+    eigHtml += '</div>';
+
+    block.innerHTML = `<h4>F<sub>${fi+1}</sub> result — F<sub>c</sub> ∈ ℝ<sup>${dim}×${dim}</sup></h4>${matHtml}${eigHtml}`;
+    resultDiv.appendChild(block);
+  }
+
+  if (va.length !== vb.length) {
+    resultDiv.innerHTML += `<div class="note" style="margin-top:4px">Note: V<sub>a</sub> has ${va.length} forms and V<sub>b</sub> has ${vb.length} forms — only the first ${minLen} pairs were combined.</div>`;
+  }
+
+  const piDiv = document.getElementById('pi-table');
+  piDiv.innerHTML = '';
+  piRows.forEach(r => {
+    const row = document.createElement('div');
+    row.style.cssText = 'display:flex;gap:8px;align-items:center;margin-bottom:6px';
+    row.innerHTML = `<span style="font-size:12px;min-width:120px;color:var(--color-text-secondary)">F<sub>${r.fi}</sub> λ<sub>${r.ei}</sub>=${r.val.toFixed(3)}</span><input style="flex:1;font-size:13px;padding:4px 8px;border:0.5px solid var(--color-border-secondary);border-radius:var(--border-radius-md);background:var(--color-background-secondary);color:var(--color-text-primary)" placeholder="effect / meaning for this eigen-direction" id="pi-${r.fi}-${r.ei}">`;
+    piDiv.appendChild(row);
+  });
+
+  document.getElementById('results').style.display = 'block';
+}
+
+addForm('a'); addForm('a');
+addForm('b'); addForm('b');
+</script>
